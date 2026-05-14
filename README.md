@@ -20,3 +20,21 @@ Enerji kristallerini toplayıp buz bloklarını kırıp kutup ayılarından kaç
 
 ## 🔗 Canlı Oyun Linki
 https://atessacan.github.io/into-the-frost/
+
+
+## 📸 Oyun Görselleri
+
+### Açılış Ekranı
+![Açılış Ekranı](screenshots/Açılış-Ekranı.png)
+
+### 1. Level
+![Level 1](screenshots/level1.png)
+
+### 2. Level
+![Level 2](screenshots/level2.png)
+
+### 3. Level
+![Level 3](screenshots/level3.png)
+
+### Kazanma Ekranı
+![Kazanma Ekranı](screenshots/Kazanma-ekranı.png)
